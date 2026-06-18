@@ -4,4 +4,4 @@ Hi, I'm Akash 👋<br>
 🎓 BCA Graduate<br>
 📊 Aspiring Data Analyst<br>
 💻 Learning SQL, Python, Excel & Power BI<br>
-🚀 Passionate about Data Analytic
+🚀 Passionate about Data Analytics
